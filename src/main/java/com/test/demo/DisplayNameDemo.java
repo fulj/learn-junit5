@@ -1,4 +1,4 @@
-package com.test.biz;
+package com.test.demo;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

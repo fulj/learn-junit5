@@ -1,9 +1,9 @@
-package com.test.biz;
+package com.test.demo;
 
 import com.test.util.Calculator;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class CalculatorTest {
     private final Calculator calculator = new Calculator();
